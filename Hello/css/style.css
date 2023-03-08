@@ -1,1 +1,6 @@
 @import 'https://cdn.jsdelivr.net/gh/alternative-rvb/Simple-Semantic-CSS/css/v1.10/main.css';
+
+a {
+    color: #f00;
+
+}
